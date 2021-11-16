@@ -1,4 +1,10 @@
+#img-div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
 #image {
-    display: block;
-    max-width: 100%;
-  }
+  display: block;
+  max-width: 100%;
+}
